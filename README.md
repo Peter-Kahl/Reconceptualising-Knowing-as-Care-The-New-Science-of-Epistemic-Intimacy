@@ -1,0 +1,2 @@
+# Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy
+A theoretical synthesis introducing epistemic psychology—a framework uniting cognition, ethics, and relational science. Based on the Kahl Model of Epistemic Dissonance (KMED-R), it reconceptualises knowing as fiduciary care and introduces FBT, TACM, and the Intimate Epistemic Oath as tools for diagnosing trust and dependence.
