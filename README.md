@@ -4,7 +4,7 @@
 
 by Peter Kahl, 2025-10-15
 
-[![Generic badge](https://img.shields.io/badge/ORCID-0009–0003–1616–4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17356455.svg)](https://doi.org/10.5281/zenodo.17356455) [![Generic badge](https://img.shields.io/badge/ORCID-0009–0003–1616–4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![Two human silhouettes exchange a beam of light symbolising knowledge and trust. The warm and cool tones of their forms represent care and autonomy held in balance, visualising the concept of fiduciary intimacy—the moral act of holding another’s mind in trust.](https://github.com/Peter-Kahl/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy/blob/main/silhouettes.jpg?raw=true)
 
@@ -26,7 +26,7 @@ epistemic psychology, fiduciary ethics, epistemic clientelism, recognition, supp
 
 ## Cite this work
 
-Kahl, P. (2025). _Reconceptualising Knowing as Care: The New Science of Epistemic Intimacy_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy
+Kahl, P. (2025). _Reconceptualising Knowing as Care: The New Science of Epistemic Intimacy_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy DOI: https://doi.org/10.5281/zenodo.17356455
 
 ## Publisher & Licence
 
